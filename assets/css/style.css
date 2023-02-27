@@ -4,3 +4,12 @@ form{
     width: 50%;
     margin:auto;
 }
+#enviar{
+    width: 70px;
+    background-color: aqua;
+    
+}
+#enviar:hover{
+    background-color: blue;
+    width: 50px;
+}
