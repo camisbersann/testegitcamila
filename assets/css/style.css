@@ -16,3 +16,7 @@ form{
 .border{
     border-radius: 5px;
 }
+.border:focus{
+    border-radius: 15px;
+    outline: 0;
+}
